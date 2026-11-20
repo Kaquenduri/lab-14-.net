@@ -178,3 +178,4 @@ C:\Users\Administrador\Downloads\lab10\lab10\build-verification\lab10.Infrastruc
 C:\Users\Administrador\Downloads\lab10\lab10\build-verification\lab10.Infrastructure.runtimeconfig.json
 C:\Users\Administrador\Downloads\lab10\lab10\build-verification\lab10.Infrastructure.dll
 C:\Users\Administrador\Downloads\lab10\lab10\build-verification\lab10.Infrastructure.pdb
+C:\Users\Administrador\Downloads\lab10\lab10\lab10.Infrastructure\obj\Debug\net10.0\lab10.Infrastructure.sourcelink.json

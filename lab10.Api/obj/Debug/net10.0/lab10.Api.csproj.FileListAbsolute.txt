@@ -457,3 +457,4 @@ C:\Users\Administrador\Downloads\lab10\lab10\lab10.Api\bin\Debug\net10.0\SixLabo
 C:\Users\Administrador\Downloads\lab10\lab10\lab10.Api\bin\Debug\net10.0\System.IO.Packaging.dll
 C:\Users\Administrador\Downloads\lab10\lab10\lab10.Api\obj\Debug\net10.0\lab10.Api.xml
 C:\Users\Administrador\Downloads\lab10\lab10\lab10.Api\bin\Debug\net10.0\lab10.Api.xml
+C:\Users\Administrador\Downloads\lab10\lab10\lab10.Api\obj\Debug\net10.0\lab10.Api.sourcelink.json

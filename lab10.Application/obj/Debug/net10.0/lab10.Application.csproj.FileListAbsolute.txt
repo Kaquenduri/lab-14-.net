@@ -31,3 +31,4 @@ C:\Users\Administrador\Downloads\lab10\lab10\lab10.Application\obj\Debug\net10.0
 C:\Users\Administrador\Downloads\lab10\lab10\build-verification\lab10.Application.deps.json
 C:\Users\Administrador\Downloads\lab10\lab10\build-verification\lab10.Application.dll
 C:\Users\Administrador\Downloads\lab10\lab10\build-verification\lab10.Application.pdb
+C:\Users\Administrador\Downloads\lab10\lab10\lab10.Application\obj\Debug\net10.0\lab10.Application.sourcelink.json

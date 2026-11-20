@@ -113,15 +113,13 @@ var app = builder.Build();
 if (   app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    
-    app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "mi api");
-        c.RoutePrefix = string.Empty;
-    });
 }
-
+app.UseSwagger();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "mi api");
+    c.RoutePrefix = string.Empty;
+});
 app.UseHttpsRedirection();
 app.UseRouting();
 app.UseAuthentication();
