@@ -1,0 +1,9 @@
+﻿using lab10.Domain.Entities;
+
+
+namespace lab10.Application.Repositories;
+
+public interface IRoleRepository : IGenericRepository<Role>
+{
+    
+}

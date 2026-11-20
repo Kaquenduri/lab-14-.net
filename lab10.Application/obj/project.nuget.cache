@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNS9BtZkRn4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\lab10.Application\\lab10.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\automapper\\16.2.0\\automapper.16.2.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\14.2.0\\mediatr.14.2.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 16.2.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6vhm-j9h7-f9gh",
+      "projectPath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\lab10.Application\\lab10.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\lab10.Application\\lab10.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 16.2.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-gpwp-5797-mjff",
+      "projectPath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\lab10.Application\\lab10.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\lab10.Application\\lab10.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCpXoRwVp5w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\scripts\\SeedLab10\\SeedLab10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\automapper\\16.2.0\\automapper.16.2.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\closedxml\\0.105.1\\closedxml.0.105.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\14.2.0\\mediatr.14.2.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.0\\microsoft.entityframeworkcore.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.0\\microsoft.entityframeworkcore.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.0\\microsoft.entityframeworkcore.analyzers.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.0\\microsoft.entityframeworkcore.relational.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.0\\microsoft.extensions.caching.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.0\\microsoft.extensions.caching.memory.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0\\microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.logging\\10.0.0\\microsoft.extensions.logging.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\npgsql\\10.0.0\\npgsql.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\10.0.0\\npgsql.entityframeworkcore.postgresql.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.0\\swashbuckle.aspnetcore.swagger.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.0\\swashbuckle.aspnetcore.swaggergen.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.0\\swashbuckle.aspnetcore.swaggerui.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"AutoMapper\" 16.2.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-6vhm-j9h7-f9gh",
+      "projectPath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\scripts\\SeedLab10\\SeedLab10.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\scripts\\SeedLab10\\SeedLab10.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"AutoMapper\" 16.2.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-gpwp-5797-mjff",
+      "projectPath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\scripts\\SeedLab10\\SeedLab10.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\scripts\\SeedLab10\\SeedLab10.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.OpenApi\" 2.3.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\scripts\\SeedLab10\\SeedLab10.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Administrador\\Downloads\\lab10\\lab10\\scripts\\SeedLab10\\SeedLab10.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
